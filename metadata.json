@@ -1,0 +1,6 @@
+{
+  "name": "Altun Çiftlik - Sürü & Çiftlik Yönetimi",
+  "description": "Koyun sürüsü takibi, rasyon planlama, aşı & ilaçlama, yem ambarı, çoban maaşları ve detaylı gelir-gider analizi sunan modern çiftlik yönetim sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
